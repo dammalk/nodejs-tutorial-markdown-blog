@@ -15,7 +15,7 @@ Source: https://www.youtube.com/watch?v=1NrHkjlWVhM
 * slugify - for creating url-friendly strings
 * method-override - for creating links requesting DELETE or PUT method
 * dompurify - for sanitizing html input
-* jsdom = for working with html in nodejs
+* jsdom - for working with html in nodejs
 
 ## MongoDB
 Installation: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
